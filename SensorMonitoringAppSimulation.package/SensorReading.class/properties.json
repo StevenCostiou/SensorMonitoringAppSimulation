@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SensorMonitoringAppSimulation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timestamp",
+		"value",
+		"origin"
+	],
+	"name" : "SensorReading",
+	"type" : "normal"
+}

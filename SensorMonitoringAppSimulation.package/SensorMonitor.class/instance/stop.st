@@ -1,0 +1,3 @@
+monitoring
+stop
+	running := false
