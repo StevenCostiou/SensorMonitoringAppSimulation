@@ -1,3 +1,3 @@
 accessing
 rawValue: anObject
-	value := anObject
+	sensorValue := anObject

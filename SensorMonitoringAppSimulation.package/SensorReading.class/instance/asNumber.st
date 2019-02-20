@@ -1,3 +1,3 @@
 reading
 asNumber
-	value := value asNumber max: 0
+	sensorValue := sensorValue asNumber max: 0

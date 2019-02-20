@@ -7,8 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"timestamp",
-		"value",
-		"origin"
+		"origin",
+		"sensorValue"
 	],
 	"name" : "SensorReading",
 	"type" : "normal"
