@@ -1,12 +1,13 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "StevenCostiou 6/25/2019 21:52",
 	"super" : "Object",
 	"category" : "SensorMonitoringAppSimulation",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"name"
+		"name",
+		"id"
 	],
 	"name" : "GenericSensor",
 	"type" : "normal"

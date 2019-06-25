@@ -1,0 +1,3 @@
+accessing
+maxValue
+	^ SimulatedHardware maxValue

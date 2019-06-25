@@ -1,0 +1,3 @@
+accessing
+maxVoltage
+	^ SimulatedHardware maxVoltage

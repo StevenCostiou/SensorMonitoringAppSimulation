@@ -5,13 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"timestamp",
-		"sensorValue",
-		"maxVoltage",
-		"maxAnalogValue",
-		"analogValueDelta"
-	],
-	"name" : "SensorReading",
+	"instvars" : [ ],
+	"name" : "SensorReadingNaNErrorValue",
 	"type" : "normal"
 }

@@ -1,3 +1,3 @@
 accessing
 read
-	^ self basicRead asNumber
+	^ self basicRead

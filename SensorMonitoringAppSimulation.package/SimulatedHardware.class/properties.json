@@ -2,7 +2,10 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "SensorMonitoringAppSimulation",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"maxVoltage",
+		"maxValue"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
